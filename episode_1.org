@@ -15,7 +15,7 @@ gain collaboration experience on projects. Fatimah and Carla will take you throu
 ** Resources mentioned
 *** Hackathon hackers 
 **** A facebook group for people to share online content about the tech industry and spark related conversation
-*** Github: 
+*** Github
 **** A service that hosts code bases for software projects  and facilitates collaboration between software developers.
 *** CodeTriage
 **** A site that notifies you when an open source project that you're subscribed to has an open issue you can help resolve.
