@@ -6,11 +6,11 @@ like Microsoft Visual Studio, Python and Spareslab (the image processing library
 gain collaboration experience on projects. Fatimah and Carla will take you through the steps to contribute to open source software and the tools that you can use to make that process less intimidating. Enjoy!
 
 ** Things you'll learn
-1:22 What is Open Source Software?
-1:44 What are examples of open source projects? Why do companies open source their projects?
-6:22 How to get started with open source?
-8:54: How is cloning a project different from forking?
-13:22 Interview with an active open source contributor, Bill Morrison
+*** 1:22 What is Open Source Software?
+*** 1:44 What are examples of open source projects? Why do companies open source their projects?
+*** 6:22 How to get started with open source?
+*** 8:54: How is cloning a project different from forking?
+*** 13:22 Interview with an active open source contributor, Bill Morrison
 
 ** Resources mentioned
 Hackathon hackers 
