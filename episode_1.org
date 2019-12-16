@@ -13,17 +13,17 @@ gain collaboration experience on projects. Fatimah and Carla will take you throu
 *** 13:22 Interview with an active open source contributor, Bill Morrison
 
 ** Resources mentioned
-Hackathon hackers 
-A facebook group for people to share online content about the tech industry and spark related conversation
-Github: 
-A service that hosts code bases for software projects  and facilitates collaboration between software developers.
-CodeTriage
-A site that notifies you when an open source project that you're subscribed to has an open issue you can help resolve.
-Outreachy
-Outreachy pays remote interns to contribute to open source software.
-Open Source Guide
-A collection of guides for contributing to and launching open source projects
-Hacktoberfest
-A celebration of open source for the month of October. 5 open source contributions and you get a free T-shirt!
-Jasper 
-Easily track of active issues on your favourite open source projects. 
+*** Hackathon hackers 
+**** A facebook group for people to share online content about the tech industry and spark related conversation
+*** Github: 
+**** A service that hosts code bases for software projects  and facilitates collaboration between software developers.
+*** CodeTriage
+**** A site that notifies you when an open source project that you're subscribed to has an open issue you can help resolve.
+*** Outreachy
+**** Outreachy pays remote interns to contribute to open source software.
+*** Open Source Guide
+**** A collection of guides for contributing to and launching open source projects
+*** Hacktoberfest
+**** A celebration of open source for the month of October. 5 open source contributions and you get a free T-shirt!
+*** Jasper 
+**** Easily track of active issues on your favourite open source projects. 
