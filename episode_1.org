@@ -13,7 +13,7 @@ gain collaboration experience on projects. Fatimah and Carla will take you throu
 *** 13:22 Interview with an active open source contributor, Bill Morrison
 
 ** Resources mentioned
-*** Hackathon hackers 
+*** HackathonHackers 
 **** A facebook group for people to share online content about the tech industry and spark related conversation
 *** Github
 **** A service that hosts code bases for software projects  and facilitates collaboration between software developers.
