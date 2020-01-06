@@ -15,12 +15,21 @@ achieve sustainability.
 ** 22:06 Testing
 ** 30:14 Code Style
 * Resources Mentioned
-** A beginner's guide to writing documentation https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
-** The Pragmatic Programmer https://www.amazon.ca/s?k=pragmatic+programmer&ref=nb_sb_noss_2
-** Sphinx Tutorial https://www.youtube.com/watch?v=qrcj7sVuvUA
-** Programming Throwdown Podcast: https://www.programmingthrowdown.com/
-** Code formatter for Visual Studio Code https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-** Flake 8 https://pypi.org/project/flake8/
-** Black https://pypi.org/project/black/
-** Creating a pre-commit https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
-** What is Regression Testing? https://www.guru99.com/regression-testing.html
+** A beginner's guide to writing documentation 
+   https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+** The Pragmatic Programmer
+   https://www.amazon.ca/s?k=pragmatic+programmer&ref=nb_sb_noss_2
+** Sphinx Tutorial 
+   https://www.youtube.com/watch?v=qrcj7sVuvUA
+** Programming Throwdown Podcast
+   https://www.programmingthrowdown.com/
+** Code formatter for Visual Studio Code
+   https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+** Flake 8
+   https://pypi.org/project/flake8/
+** Black 
+   https://pypi.org/project/black/
+** Creating a pre-commit 
+   https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
+** What is Regression Testing? 
+   https://www.guru99.com/regression-testing.html
