@@ -33,3 +33,11 @@ achieve sustainability.
    https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
 ** What is Regression Testing? 
    https://www.guru99.com/regression-testing.html
+** UAT for the technical: A Complete Guide to UAT by Software Testing Help
+   https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/
+** UAT For the non-technical: What is UAT by BA Times
+   https://www.batimes.com/articles/uat-tips-and-templates.html
+** UAT Workflow by Usersnap:
+   https://usersnap.com/blog/user-acceptance-testing-workflow/
+
+
