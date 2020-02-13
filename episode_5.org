@@ -1,6 +1,6 @@
 * Shownotes
 In this episodes of Pain Points & Pull Requests, Fatimah and Carla walk you through their approach to analyzing data to validate a hypothesis. When we approach mid-February, we often find that our new
-year's resolutions have begun to dwindle. In an effort to understand how long people usually stick to their new years resolutions, Fatimah and Carla perform an analysis on Canadian cigarette
+year's resolutions have begun to dwindle. In an effort to understand how long people usually stick to their new year's resolutions, Fatimah and Carla perform an analysis on Canadian cigarette
 consumption time-series data. Check out this episode to learn more about the data analysis techniques and tools that they used!
 ** What you'll learn
 *** 2:00 The quantified self movement
