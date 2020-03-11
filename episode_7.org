@@ -12,8 +12,8 @@ make great use of the tech communities around them
 *** 29:33 Skill gaps in the tech industry
 *** 38:18 Why it's important to give back to the community of students
 
-Dennys' Linkedin
-https://www.linkedin.com/in/denyslinkov/
-TU20 Website
-https://techundertwenty.com/
+** Dennys' Linkedin
+   https://www.linkedin.com/in/denyslinkov/
+** TU20 Website
+   https://techundertwenty.com/
 
