@@ -1,0 +1,19 @@
+* Show Notes
+In this episode of Pain Points and Pull Requests Fatimah and Carla chat with special guest, Denys Linkov! Denys joined Halton's Tech Under Twenty when he
+was still in highschool and since then has graduated from the University of Toronto with a degree in computer science, become a cloud engineer for RBC
+and an advisor for Tech Under Twenty. Denys shares his insights on how students can approach navigating the rapidly evolving tech industry and how they can
+make great use of the tech communities around them
+
+** Things You'll learn
+*** 3:06 Transitioning from highschool to university in tech
+*** 9:46 Benefits to being part of a tech community
+*** 14:50 Challenges in leading Tech Under 20
+*** 25:53 Common mistakes students make when teaching themselves to develop
+*** 29:33 Skill gaps in the tech industry
+*** 38:18 Why it's important to give back to the community of students
+
+Dennys' Linkedin
+https://www.linkedin.com/in/denyslinkov/
+TU20 Website
+https://techundertwenty.com/
+

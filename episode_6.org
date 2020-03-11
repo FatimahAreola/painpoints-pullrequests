@@ -1,0 +1,29 @@
+* Show Notes
+In this episode of Painpoints & Pull Requests, Fatimah and Carla host a study session! They discuss what skills and problems are essential to practice
+for expanding your programmer or product manager toolkit. Whether you want to know how to prepare for interviews or you're simply looking to hone your skills, join Fatima and Carla for their take on whats most important.
+** Things you'll learn
+*** 1:53 Technical problems
+*** 11:38 Theory-based problem
+*** 16:58 Skills for product managers
+*** 19:11 Easy product management question
+*** 25:20 Hard PM question
+*** 31:58 Final takeaways
+** Extra Resources
+*** Leet Code
+    https://leetcode.com/
+*** Cracking the code interview
+    https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?keywords=crack+the+code+interview&qid=1582511360&sr=8-1
+*** Machine Learning Interview Questions
+    https://www.youtube.com/watch?v=t6gOpFLt-Ks&t=503s
+*** Cracking the PM interview
+    https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_1?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELEnBy2v5bCNO2LDUxEk9kBNiItmpLc9dbYUDnhWPxhjs97MVoiij7oaAomqEALw_wcB&hvadid=267439780234&hvdev=c&hvlocphy=9001095&hvnetw=g&hvqmt=e&hvrand=11520522410546713763&hvtargid=aud-854586742982%3Akwd-400331312794&hydadcr=16957_10238107&keywords=crack+the+pm+interview&qid=1582511314&sr=8-1
+*** Easy PM question
+    https://medium.com/stellarpeers/what-is-your-favorite-product-and-why-fc495757f1b6
+*** Hard PM question
+    https://www.quora.com/What-users-are-not-well-served-by-Amazon-com-How-would-you-redesign-Amazon-com-to-appeal-to-that-user-type
+    https://medium.com/stellarpeers/is-there-a-user-that-is-not-well-served-by-amazon-com-b1b052de1741
+*** Decode and conquer
+    https://www.amazon.ca/Decode-Conquer-Answers-Management-Interviews/dp/0615930417/ref=sr_1_2?gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELECUvjINK8GYPMtfR-8Vuu4ZYR3_6d331iLqbsMxv5L3Kdxjtsk5rUaAuvuEALw_wcB&hvadid=229994946938&hvdev=c&hvlocphy=9001095&hvnetw=g&hvqmt=e&hvrand=3339861385629874673&hvtargid=aud-854586742982%3Akwd-300940495671&hydadcr=22432_10105314&keywords=decode+and+conquer&qid=1582511983&sr=8-2
+
+
+
