@@ -1,8 +1,6 @@
 * Show Notes
-In this episode of Pain Points & Pull Requests, Fatimah and Carla talk about decisions we make when we start a new technical project.
-They discuss topics like choosing between frameworks and setting timelines for the complition of the project's components.  Whether it's your first technical project or you want to hear a different perspective on the most important
-decisions to make when starting a project, you'll hopefully find something for you!
-  
+In this episode of Pain Points & Pull Requests, Fatimah and Carla talk about decisions made at the start of a technical project.
+They discuss topics like choosing between frameworks and setting timelines for the completion of the project's components. Whether it's your first technical project or you want to hear a different perspective on setting up a project, you'll hopefully find something for you!  
 
 ** Things You'll learn
 *** 5:01 A background on our project
