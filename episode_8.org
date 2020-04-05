@@ -1,0 +1,24 @@
+* Show Notes
+In this episode of Pain Points & Pull Requests, Fatimah and Carla talk about decisions we make when we start a new technical project.
+They discuss topics like choosing between frameworks and setting timelines for the complition of the project's components.  Whether it's your first technical project or you want to hear a different perspective on the most important
+decisions to make when starting a project, you'll hopefully find something for you!
+  
+
+** Things You'll learn
+*** 5:01 A background on our project
+*** 19:53 Setting up your development environment
+*** 24:30 Portability
+*** 27:50 Collaborating with Docker
+*** 38:18 Why it's important to give back to the community of students
+*** 33:59 How to coordinate the people in your project!
+
+** How to choose a framework
+   https://hackernoon.com/how-to-choose-a-framework-ea8b5b1e1f44
+** Django vs Flask
+   http://www.mindfiresolutions.com/blog/2018/05/flask-vs-django/
+** Docker
+   https://www.docker.com/
+** Anaconda
+   https://www.anaconda.com/distribution/
+** A discussion on the key elements of a system
+   https://codeburst.io/from-zero-to-deployment-how-i-secured-an-internship-with-one-amazing-side-project-3daf8a74daba
