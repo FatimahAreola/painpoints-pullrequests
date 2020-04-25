@@ -1,7 +1,5 @@
 * Show Notes
-In this episode of Pain Points and Pull Requests, Fatimah and Carla talk about how you may want to wrap up your technical side projects.
-They discuss what it means to deploy an application and how you can use Google Kubernetes Engine and how you can use it to deploy an containerized version of your app. They also talk about your
-options for communicating the results and your learnings from the project and their experience doing so. 
+In this episode of Pain Points and Pull Requests, Fatimah and Carla talk about how you may want to wrap up your technical side projects. They discuss what it means to deploy an application and how you can use Google Kubernetes Engine to do it. They also talk about your options for communicating the results of your project and their own experience doing so. 
 
 ** Things You'll learn
 *** 1:43 What is deployment?
