@@ -1,0 +1,32 @@
+* Show Notes
+In this episode of Pain Points and Pull Requests, Fatimah and Carla talk about how you may want to wrap up your technical side projects.
+They discuss what it means to deploy an application and how you can use Google Kubernetes Engine and how you can use it to deploy an containerized version of your app. They also talk about your
+options for communicating the results and your learnings from the project and their experience doing so. 
+
+** Things You'll learn
+*** 1:43 What is deployment?
+*** 3:39 How has deployment evolved over time?
+*** 12:50 Google Kubernetes Engine
+*** 18:10 Setting up databases in the Google Cloud Platform
+*** 22:30 Steps to deploy a container using the Kubernetes Engine
+*** 33:20 Opportunities to document what you've learnt from your project
+*** 34:04 Some tips for blog posts
+*** 37:04 Our favourite tech podcasts
+*** 40:01 Pitching your project
+*** 44:32 Advice on adding your project to your resume
+
+** Resources
+*** Google Kubernetes Engine
+    https://hackernoon.com/how-to-choose-a-framework-ea8b5b1e1f44
+*** Using Google Kubernetes Engine to deploy a containerized web app (Tutorial)
+    https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+*** Using Kubernetes with a Docker Compose setup
+    https://kompose.io/
+*** Programming Throdown
+    https://www.programmingthrowdown.com/
+*** CodingBlocks
+    https://www.codingblocks.net/
+*** Vergecast
+    https://www.theverge.com/the-vergecast
+*** This Week in Machine Learning and AI
+    https://twimlai.com/
