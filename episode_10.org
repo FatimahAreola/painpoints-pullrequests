@@ -1,0 +1,24 @@
+* Show Notes
+In this episode of Pain Points & Pull Requests, Fatimah and Carla talk about IOT and beyond 5G networks!
+They discuss what the Internet of Things is, what role it plays in our world, and how the world is prapering for its developments.
+
+* What you'll learn
+** 1:22 What is IOT?
+** 5:10 How 5G and beyond 5G makes IOT more relaiable
+** 8:00 Internet access in rurual areas
+** 12:13 How IOT can make an impact
+** 13:38 Limitations of 5G
+** 16:28 Virtualization
+** 20:21 Machine Learning in Networking
+* More Resources
+*** Linking sattelites directly to smartphones 
+    https://www.economist.com/science-and-technology/2020/03/07/a-new-firm-says-it-can-link-satellites-to-ordinary-smartphones
+*** Network Slicing using AI
+    https://ieeexplore.ieee.org/abstract/document/8954683/metrics#metrics
+*** Beyond 5G Networks (designing networks that support more connected devices)
+    https://www.youtube.com/watch?v=m4WZVmJrxfY
+*** Ml for network optimization
+    https://www.open5gcore.org/41fe383c1476dcbc
+*** Connected devices (robotic surgeries)
+    https://www.youtube.com/watch?v=H-sOLL9cz_g
+
